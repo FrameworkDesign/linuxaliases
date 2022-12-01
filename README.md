@@ -2,6 +2,6 @@
 
 To Install Run -
 
-curl -s https://raw.githubusercontent.com/FrameworkDesign/linuxaliases/main/fwkaliases.sh | bash -s
+```curl -s https://raw.githubusercontent.com/FrameworkDesign/linuxaliases/main/fwkaliases.sh | bash -s```
 
 At Command Line
